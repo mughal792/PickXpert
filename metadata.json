@@ -1,0 +1,6 @@
+{
+  "name": "PickXpert Reviews & Buying Guides",
+  "description": "Independent, rigorous product reviews and curated buying guides across Kitchen, Fitness, Pet Care, Smart Home, Home Office, and Baby Essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
